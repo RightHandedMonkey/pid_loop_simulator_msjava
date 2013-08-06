@@ -4,6 +4,9 @@ PID Trainer
 This program is used to interactively demonstrate a PID loop (proportional, integral, derivative) from any computer that has the Microsoft JVM installed.
 These loops are typically used in building automation and process control systems, but can be very difficult to intuitively understand how changing the different factors affects the loop performance.
 
+Compiled Binaries are stored at:
+https://sourceforge.net/projects/pidloopsimulato/
+
 INSTALLATION:
 
 1. Download & Install the Microsoft Java Virtual Machine, which can be found at: 
